@@ -6,7 +6,7 @@
     "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
-  "author": "",
+  "author": "Shruti Lakade",
   "license": "ISC",
   "description": "",
   "dependencies": {
